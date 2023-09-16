@@ -10,5 +10,6 @@ int main(){
     printf("세 정수 덧셈 결과: %d \n", SUM(num1, num2, num3));
     printf("세 정수 곱셈 결과: %d \n", MUL(num1, num2, num3));
 
+
     return 0;
 }
