@@ -7,6 +7,7 @@ int main() {
     scanf("%d", &seed);
     srand(seed);
     
+    
     for(int i = 0; i < 5; i++){
         printf("정수 출력: %d\n", rand());
     }
